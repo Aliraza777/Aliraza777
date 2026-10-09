@@ -113,12 +113,11 @@ Results-driven **Full Stack Developer** with **4+ years** of experience building
 </p> -->
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammadalirazavs&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="muhammadalirazavs stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammadalirazavs&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="muhammadalirazavs stats"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=muhammadalirazavs&theme=tokyonight&hide_border=true" alt="muhammadalirazavs streak"/>
 </p>
-
 ---
 
 ## 🤝 Let's Connect
