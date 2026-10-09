@@ -109,7 +109,7 @@ Results-driven **Full Stack Developer** with **4+ years** of experience building
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Aliraza777&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com/?user=muhammadalirazavs&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
 ---
