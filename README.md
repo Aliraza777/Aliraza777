@@ -103,13 +103,20 @@ Results-driven **Full Stack Developer** with **4+ years** of experience building
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammadalirazavs&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadalirazavs&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=muhammadalirazavs&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p> -->
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammadalirazavs&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="muhammadalirazavs stats"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=muhammadalirazavs&theme=tokyonight&hide_border=true" alt="muhammadalirazavs streak"/>
 </p>
 
 ---
