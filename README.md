@@ -274,7 +274,7 @@ AI-powered **Amazon product optimization** platform with automated content gener
 I'm always up for a conversation about **scalable backends**, **AI-powered products** or a **full stack build** that needs shipping.
 
 <a href="mailto:aliwahlah777@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-aliwahlah777%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/></a>
-<a href="https://portfolio-beta-taupe-39.vercel.app"><img src="https://img.shields.io/badge/See%20My%20Work-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://muhammad-ali-raza-dev.vercel.app/"><img src="https://img.shields.io/badge/See%20My%20Work-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
 <br/><br/>
 
