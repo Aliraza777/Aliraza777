@@ -2,13 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Muhammad%20Ali%20Raza&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Full%20Stack%20Engineer%20%E2%80%A2%20AI%20Integrations&descAlignY=58&descSize=18" width="100%" alt="Muhammad Ali Raza"/>
 
-<a href="https://portfolio-beta-taupe-39.vercel.app">
+<a href="https://muhammad-ali-raza-dev.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=I+build+backends+that+scale+%F0%9F%9A%80;Node.js+%C2%B7+Nest.js+%C2%B7+Next.js;AI+voice+agents+with+OpenAI+%2B+ElevenLabs+%2B+Twilio;Microservices%2C+queues+%26+caching+%E2%9A%A1" alt="Typing intro"/>
 </a>
 
 <br/>
 
-<a href="https://portfolio-beta-taupe-39.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://muhammad-ali-raza-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/muhammad-ali-raza-711249177"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:aliwahlah777@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/muhammadalirazavs"><img src="https://img.shields.io/badge/Work%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Work GitHub"/></a>
@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Latency%20Cut-20%25-2ea44f?style=flat-square" alt="20% latency cut"/>
 <img src="https://img.shields.io/badge/Products%20Shipped-8%2B-8A2BE2?style=flat-square" alt="8+ products"/>
 <img src="https://img.shields.io/badge/Open%20to-Collaborate-orange?style=flat-square" alt="Open to collaborate"/>
-<img src="https://komarev.com/ghpvc/?username=Aliraza777&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Aliraza777.Aliraza777&left_text=Profile%20views&left_color=%23555555&right_color=%230e75b6" alt="Profile views"/>
 
 <br/><br/>
 
@@ -253,13 +253,12 @@ AI-powered **Amazon product optimization** platform with automated content gener
 </tr>
 <tr>
 <td align="center">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Aliraza777&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Aliraza777 stats"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Aliraza777&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Aliraza777 stats"/>
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliraza777&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Aliraza777 top languages"/>
 <img width="100%" src="https://streak-stats.demolab.com/?user=Aliraza777&theme=tokyonight&hide_border=true" alt="Aliraza777 streak"/>
 </td>
 <td align="center">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=muhammadalirazavs&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="muhammadalirazavs stats"/>
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadalirazavs&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="muhammadalirazavs top languages"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=muhammadalirazavs&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="muhammadalirazavs stats"/>
 <img width="100%" src="https://streak-stats.demolab.com/?user=muhammadalirazavs&theme=tokyonight&hide_border=true" alt="muhammadalirazavs streak"/>
 </td>
 </tr>
